@@ -1,0 +1,1 @@
+document.getElementById("now").textContent="Configure aquí la API de EverestCast.";

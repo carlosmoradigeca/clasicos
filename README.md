@@ -1,0 +1,1 @@
+Reemplace la URL del stream en index.html y agregue su integración con la API.
